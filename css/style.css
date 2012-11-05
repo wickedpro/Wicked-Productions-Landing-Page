@@ -1,0 +1,155 @@
+body {
+  background: url("../img/bg.png") repeat; }
+
+#content {
+  width: 700px;
+  height: 900px;
+  margin: 0 auto;
+  padding: 25px; }
+
+#logo {
+  margin: 0 auto;
+  width: 160px;
+  height: 198px; }
+
+#social {
+  width: 500px;
+  margin: 0 auto; }
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  color: black;
+  font-size: 30px;
+  text-align: center; }
+
+h3 {
+  font-family: 'Merriweather', serif;
+  font-weight: 300;
+  color: #353634;
+  font-size: 18px;
+  text-align: center; }
+
+h4.tumblr {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 15px;
+  background-color: #34506b;
+  color: #fff;
+  padding: 10px; }
+
+h4.facebook {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 15px;
+  background-color: #3B5998;
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px; }
+
+h4.twitter {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 15px;
+  background-color: #00aced;
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px; }
+
+h4.github {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 15px;
+  background-color: #b8544b;
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px; }
+
+h4.work {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 15px;
+  background-color: #8DB045;
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px; }
+
+h4.resume {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 15px;
+  letter-spacing: length;
+  background-color: #ADD5DC;
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px; }
+
+h4.contact {
+  font-family: 'Anaheim', sans-serif;
+  font-size: 15px;
+  background-color: #CE4E1D;
+  color: #fff;
+  padding: 10px;
+  margin-top: 10px; }
+
+a:link {
+  text-decoration: none; }
+
+.social {
+  font-family: "SocialFoundicons"; }
+
+.clear {
+  clear: both; }
+
+@media only screen and (max-device-width: 480px) {
+  body {
+    width: auto;
+    height: auto; }
+
+  #logo {
+    display: none; }
+
+  h1 {
+    font-size: 70px; }
+
+  h3 {
+    font-size: 35px; }
+
+  h4.tumblr {
+    font-family: arial;
+    font-size: 30px;
+    padding: 30px; }
+
+  h4.facebook {
+    font-family: arial;
+    font-size: 30px;
+    padding: 30px; }
+
+  h4.twitter {
+    font-family: arial;
+    font-size: 30px;
+    padding: 30px; }
+
+  h4.github {
+    font-family: arial;
+    font-size: 30px;
+    padding: 30px; }
+
+  h4.work {
+    font-family: arial;
+    font-size: 30px;
+    padding: 30px; }
+
+  h4.resume {
+    font-family: arial;
+    font-size: 30px;
+    padding: 30px; }
+
+  h4.contact {
+    font-family: arial;
+    font-size: 30px;
+    padding: 30px; }
+
+  #content {
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    margin: 0 auto; }
+
+  #social {
+    width: 90%;
+    margin: 0 auto; } }

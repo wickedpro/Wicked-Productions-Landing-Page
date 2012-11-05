@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+
+.icon-keyboard:before { content: '\2328'; } /* '⌨' */
+.icon-facebook-rect:before { content: '\f301'; } /* '' */
+.icon-twitter-bird:before { content: '\f303'; } /* '' */
+.icon-github-text:before { content: '\f307'; } /* '' */
+.icon-tumblr-rect:before { content: '\f310'; } /* '' */
+.icon-user:before { content: '👤'; } /* '\1f464' */
+.icon-monitor:before { content: '💻'; } /* '\1f4bb' */
+.icon-phone:before { content: '📞'; } /* '\1f4de' */
